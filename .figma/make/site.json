@@ -1,0 +1,10 @@
+{
+  "description": "Explore a premium cycling experience with a sleek online store offering custom bike builds, quality products, and expert services tailored for cycling enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
